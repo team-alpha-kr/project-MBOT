@@ -19,5 +19,5 @@ MBOT은 대표적으로 3가지(4가지)로 볼 수 있습니다.
 
 ## 참가자 명단
 이 목록은 참가해주신 개발자들 입니다. 
-* [gunyu1019](gunyu1019)
-* [Tim232](Tim232)
+* [gunyu1019](https://github.com/gunyu1019)
+* [Tim232](https://github.com/Tim232)
